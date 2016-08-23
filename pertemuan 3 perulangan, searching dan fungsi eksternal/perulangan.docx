@@ -1,0 +1,32 @@
+﻿Pertemuan ke 3
+class android Basic
+“Perulangan”
+
+	seperti yang di jelaskan sebelumnya, pada dasarnya fungsi komputasi pemrograman adalah untuk otomatisasi suatu proses. Nah dalam sebuah proses kadang kita menemukan suatu prosedur(syntak) yang hasrus di eksekusi secara berulang dengan batasan tertentu dan aturan tertentu. Nah disitu lah kita menggunakan perulangan.
+Ada beberapa methode perulangan yang sering digunakan dalam permrograma antara lain :
+1. for
+rumus :
+for ('nilai dimulainya perulangan' ; 'kondisi berahirnya perulangan' ; 'pergerakan perulangan')
+{
+//code yang akan di eksekusi 
+}
+
+2. while
+rumus :
+while ('perhitungan perulangan')
+{
+//code yang akan di eksekusi 
+// perhitungan jumlah perulangan
+}
+
+
+	
+3. do while
+rumus
+do{
+//code yang akan dieksekusi
+//counter looping
+}while(//pembatas)
+
+
+

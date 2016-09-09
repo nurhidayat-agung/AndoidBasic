@@ -1,0 +1,3 @@
+void identitas(){
+		System.out.println("nama manusia : " + nama);
+	}
